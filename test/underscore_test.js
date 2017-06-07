@@ -7,9 +7,8 @@ describe('underscore', function () {
   describe('array functionality', function () {
     const arr = [3,6,9,1,12];
   
-    it('should return first item', function (done) {
+    it('should return first item', function () {
       assert.equal(3, fixture.getFirstItem(arr));
-      done();
     });
   });
 });
