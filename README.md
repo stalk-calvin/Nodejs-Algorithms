@@ -16,3 +16,7 @@ Calvin Lee, @stalk.calvin
 ## Dependancies
 
 Dependancies are listed in the [package.json](https://github.com/stalk-calvin/node-js-algorithms/blob/master/package.json) file.
+
+## Usage 
+
+Install dependencies with ```npm install``` and run tests with ```npm test```
