@@ -16,7 +16,7 @@
 			// Automatically stop program after launch.
 			"stopOnEntry": false,
 			// Command line arguments passed to the program.
-			"args": ["--timeout", "10000", "test/*.js"],
+			"args": ["test/*.js", "test/**/*.js"],
 			// Workspace relative or absolute path to the working directory of the program being debugged. Default is the current workspace.
 			"cwd": "${workspaceRoot}",
             "runtimeExecutable": "/net/homedirs/calee/.linuxbrew/bin/node",

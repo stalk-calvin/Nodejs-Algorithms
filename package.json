@@ -2,7 +2,7 @@
   "name": "js-algorithms",
   "version": "1.0.0",
   "description": "playground for node js",
-  "main": "test.js",
+  "main": "main.js",
   "dependencies": {
     "underscore": "^1.8.3"
   },
@@ -11,7 +11,7 @@
     "should": "^1.3.0"
   },
   "scripts": {
-    "test": "node_modules/.bin/mocha"
+    "test": "node_modules/.bin/mocha $(find test -name '*.js')"
   },
   "repository": {
     "type": "git",
