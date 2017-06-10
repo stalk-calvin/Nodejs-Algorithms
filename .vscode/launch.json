@@ -19,7 +19,6 @@
 			"args": ["test/*.js", "test/**/*.js"],
 			// Workspace relative or absolute path to the working directory of the program being debugged. Default is the current workspace.
 			"cwd": "${workspaceRoot}",
-            "runtimeExecutable": "/net/homedirs/calee/.linuxbrew/bin/node",
             "runtimeArgs": [
                 "--nolazy"
             ],
