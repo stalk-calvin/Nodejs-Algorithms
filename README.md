@@ -1,6 +1,6 @@
 # NodeJS-Algorithms
 
-[![CI](https://travis-ci.org/stalk-calvin/node-js-algorithms.svg?branch=master)](https://travis-ci.org/stalk-calvin/node-js-algorithms)
+[![CI](https://travis-ci.org/stalk-calvin/Nodejs-Algorithms.svg?branch=master)](https://travis-ci.org/stalk-calvin/Nodejs-Algorithms)
 [![License](http://img.shields.io/:license-Apache%202-red.svg)](http://www.apache.org/licenses/LICENSE-2.0.txt)
 
 Having fun with [Node.js](https://nodejs.org/en/)
